@@ -12,8 +12,8 @@ promoting separation of concerns, which enhances code readability and maintainab
 * A key feature of the system is its comprehensive management of student credentials and
 personal data, offering robust functionalities for secure data handling and privacy compliance.
 This includes intricate processes for authentication and authorization, underpinned by Spring
-Security, to ensure that user access is appropriately controlled and sensitive information remains protected.
-* In addition to student data management, the system is equipped with modules for managing academic groups and roles, enabling administrators to assign and manage roles within
+Security, to ensure that user access is appropriately controlled and sensitive information remains protected.
+* In addition to student data management, the system is equipped with modules for managing academic groups and roles, enabling administrators to assign and manage roles within
 the educational framework effectively. This feature is crucial for tailoring access and functionalities according to the diverse needs of various user categories, such as students, faculty, and
 administrative staff.
 * The Student Management System is also designed with extendibility in mind, allowing
